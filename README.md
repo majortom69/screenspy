@@ -4,7 +4,7 @@ This project demonstrates how to capture screenshots and send them to a Telegram
 
 - Captures screenshots using a C++ client.
 - Sends screenshots to a Telegram bot via a server built with Express.js.
-- Utilizes MySQL database for storing data.
+- Utilizes MySQL database for storing data(Computer Name, last Active).
 
 ## Prerequisites
 
