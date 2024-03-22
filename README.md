@@ -1,4 +1,4 @@
-This project demonstrates how to capture screenshots and send them to a Telegram bot using a client-server architecture implemented in C++ and Node.js.
+Capturing screenshots and send them to a Telegram bot using a client-server architecture implemented in C++ and Node.js.
 
 ## Features
 
