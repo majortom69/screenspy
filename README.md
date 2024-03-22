@@ -22,7 +22,7 @@ Capturing screenshots and send them to a Telegram bot using a client-server arch
 ## Disclaimer
 
 
-**Warning:** It is essential to understand the legal implications of capturing and sharing screenshots, especially without proper consent. Depending on your jurisdiction, unauthorized capture and sharing of screenshots could be illegal and result in legal consequences. This project is intended for educational purposes only. It is your responsibility to use this software in compliance with applicable laws and regulations.
+**Warning:** This project is intended for educational purposes only. It is your responsibility to use this software in compliance with applicable laws and regulations.
 
 ![image](https://github.com/majortom69/screenspy/assets/85795310/ef11374a-dee2-4f19-88ba-928311d3e4f1)
 
