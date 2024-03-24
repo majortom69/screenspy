@@ -2,7 +2,7 @@ Capturing screenshots and send them to a Telegram bot using a client-server arch
 
 ## Features
 
-- Captures screenshots using a C++ client.
+- Captures screenshots using a C++ client and sends them to Node.js server.
 - Sends screenshots to a Telegram bot via a server built with Express.js.
 - Utilizes MySQL database for storing data(Computer Name, last Active).
 
